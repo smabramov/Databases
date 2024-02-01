@@ -18,5 +18,5 @@
 ...
 идентификатор структурного подразделения, внешний ключ, integer).
 
-![БД описание](https://github.com/smabramov/Databases/blob/3224a3945590ecedd87383872db9b53d97389cfb/%D0%91%D0%94%20%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5.txt)
+![БД описание](https://github.com/smabramov/Databases/blob/8edd93c8cd5b1f8537cb48bc622d81019c36c300/%D0%91%D0%94%20%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5.txt)
 
